@@ -1,5 +1,25 @@
-#cabecera{
-    background-image: url("images/cabecera.png");
-    background-repeat: no-repeat;
-    background-size: 100%;
+header{
+    text-align: center;
+    border-bottom: 1px solid #D98200;
+}
+
+.navSeparator{
+    color: #4277B6;
+    font-weight: bolder;
+}
+
+.navActive{
+    color: #5B8C5A;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.navNotActive{
+    color: #619B8A;
+    text-decoration: none;
+}
+
+footer{
+    border-top: 1px solid #D98200;
+    text-align: center;
 }
